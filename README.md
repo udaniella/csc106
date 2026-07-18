@@ -1,12 +1,13 @@
 # Student Portfolio Website
 
-This project is a personal student portfolio website built with HTML, CSS, and JavaScript. It showcases the student’s academic background, interests, projects, and contact information.
+This project is a personal portfolio website designed to showcase my academic journey, interests, projects, and professional goals. It was built using HTML, CSS, and JavaScript to create a clean, responsive, and user-friendly experience.
 
 ## Features
-- Responsive layout
-- Home, About, Projects, Planner, and Contact pages
-- Interactive task planner
-- Contact form with validation
+- Responsive design for desktop and mobile devices
+- Dedicated pages for Home, About, Projects, Planner, and Contact
+- Interactive academic task planner
+- Contact form with input validation
+- Professional and modern layout
 
 ## Project Structure
 - index.html — Home page
@@ -14,16 +15,24 @@ This project is a personal student portfolio website built with HTML, CSS, and J
 - projects.html — Projects page
 - planner.html — Planner page
 - contact.html — Contact page
-- css/styles.css — Main stylesheet
+- css/styles.css — Main styling for the website
 - js/script.js — Interactivity for the planner and contact form
 
-## How to View Locally
-1. Open the project folder in your browser, or run a local server.
-2. Example:
+## How to Run Locally
+1. Open the project folder in your preferred code editor.
+2. Start a local server using:
    ```bash
    python -m http.server 8000
    ```
-3. Open http://localhost:8000 in your browser.
+3. Visit http://localhost:8000 in your browser.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
 
 ## Deployment
-This website can be published on GitHub Pages or any other static hosting platform.
+This website can be published using GitHub Pages or any other static hosting platform.
+
+## Author
+Daniella Uzozie
